@@ -1,0 +1,5 @@
+{
+  binaries_bucket = "${binaries_bucket}"
+  project_id = "${project_id}"
+  region = "${region}"
+}
